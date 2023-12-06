@@ -11,3 +11,5 @@ POST /createuser - Create new user
 PATCH /user/1 - Edit user with id 1
 
 DELETE /user/1 - Delete the user with id 1
+
+//USING MOCKAROO FOR CREATING TEST USERS
